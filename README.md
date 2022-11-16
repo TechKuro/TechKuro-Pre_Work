@@ -13,4 +13,4 @@ To use this Study Guide, you ca review the notes in each section. For suggestion
 N/A
 
 ## License
-Please refer to the LICENSE in the repo.
+MIT License
